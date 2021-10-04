@@ -2,3 +2,5 @@
 server.port:8889
 server.servlet.context-path=restcont
 spring.application.name="Kiran"
+kiran.wife=Shilpa
+kiran.daughter=Janvah
